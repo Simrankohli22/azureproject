@@ -1,0 +1,9 @@
+{
+	"name": "df-azureprojectsimmu",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f9006304-d951-478c-a46f-0efc5ab6dfec",
+		"tenantId": "ea8f1448-de82-4811-bb30-3ce1b034203f"
+	}
+}
